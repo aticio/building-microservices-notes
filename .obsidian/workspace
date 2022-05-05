@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b55f76e3ddc80227",
+    "type": "split",
+    "children": [
+      {
+        "id": "904cf240f8b3bee1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "microservice.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a54d7e4f2d8a78a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c5bbce18b360ba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45fab9d565edd2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e8172982b71cbf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec183a85af7bcbd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "309dd0a062602ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6fd26f58351c6fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "microservice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "904cf240f8b3bee1",
+  "lastOpenFiles": [
+    "microservice.md"
+  ]
+}
