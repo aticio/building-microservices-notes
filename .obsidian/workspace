@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "904cf240f8b3bee1",
+        "id": "0d4446dad889ef2d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "microservice.md",
+            "file": "monolith.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microservice.md",
+                "file": "monolith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "904cf240f8b3bee1",
+  "active": "0d4446dad889ef2d",
   "lastOpenFiles": [
-    "microservice.md"
+    "monolith.md",
+    "microservice.md",
+    "domain driven design.md",
+    "service oriented architecture.md",
+    "hexagonal architecture.md",
+    "information hiding.md"
   ]
 }

@@ -1,0 +1,1 @@
+Concept of hiding as much info as possible inside a component and exposing as little ass possible via external interfaces for [[microservice]]s.
