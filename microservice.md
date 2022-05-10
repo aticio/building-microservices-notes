@@ -17,3 +17,18 @@ From the outside, a single microservice is treated as a black box. You can reach
 * Containers and Kubernetes: For isolated execution.
 * Streaming.
 * Public Cloud and Serverless.
+
+### Advantages of Microservices
+* Tech heterogenity
+* Robustness
+* Scaling
+* Ease of deployment
+* Organizational alignment
+* Composability: Could be consumed in different ways.
+
+### Microservice Pain Points
+* Developer experience
+* Tech overload
+* Cost
+* Reporting (with many databases)
+* Monitoring and troubleshooting
