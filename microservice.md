@@ -11,3 +11,9 @@ From the outside, a single microservice is treated as a black box. You can reach
 * Size: Should be kept to the size at which it can be easily understood.
 * Flexibility
 * Alignment of Architecture and Organization: Changing from silos to functional teams.
+
+### Enabling technology
+* Log aggregation and distributed tracing: Essential for beginning a microservice journey. You can use correlation IDs. IDs that is used for related set of service calls.
+* Containers and Kubernetes: For isolated execution.
+* Streaming.
+* Public Cloud and Serverless.
