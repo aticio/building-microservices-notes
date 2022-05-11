@@ -32,3 +32,6 @@ From the outside, a single microservice is treated as a black box. You can reach
 * Cost
 * Reporting (with many databases)
 * Monitoring and troubleshooting
+* Security: More information flows in the security.
+* Testing: More components
+* Data Consistency
